@@ -5,7 +5,7 @@
 🌱 I’m currently learning Android Development in kotlin<br>📱 Learning to build functional Android apps using Kotlin and Jetpack<br>🚀 Currently exploring Firebase, UI/UX design, and best coding practices<br>📫 How to reach me harshsuthar9672@gmail.com
 
 
-# 🌐 Socials:
+# 🌐 𝐒𝐨𝐜𝐢𝐚𝐥
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_suthar_16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshsuthar9672@gmail.com) 
 
 # 💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
