@@ -1,7 +1,7 @@
 <h1 align="center">𝐇𝐢 👋, 𝐈'𝐦 𝐇𝐚𝐫𝐬𝐡 𝐒𝐮𝐭𝐡𝐚𝐫</h1>
 <h3 align="center">𝐀 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 
-# 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+# 🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 🌱 I’m currently learning Android Development in kotlin<br>📱 Learning to build functional Android apps using Kotlin and Jetpack<br>🚀 Currently exploring Firebase, UI/UX design, and best coding practices<br>📫 How to reach me harshsuthar9672@gmail.com
 
 
