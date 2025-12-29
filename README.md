@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Harsh Suthar</h1>
-<h3 align="center">A Beginner Android developer</h3>
+<h1 align="center">𝐇𝐢 👋, 𝐈'𝐦 𝐇𝐚𝐫𝐬𝐡 𝐒𝐮𝐭𝐡𝐚𝐫</h1>
+<h3 align="center">𝐀 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 
-# 💫 About Me:
+# 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 🌱 I’m currently learning Android Development in kotlin<br>📱 Learning to build functional Android apps using Kotlin and Jetpack<br>🚀 Currently exploring Firebase, UI/UX design, and best coding practices<br>📫 How to reach me harshsuthar9672@gmail.com
 
 
 # 🌐 𝐒𝐨𝐜𝐢𝐚𝐥
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Telegram&logoColor=dark)](https://instagram.com/harsh_suthar_16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshsuthar9672@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=dark)](https://instagram.com/harsh_suthar_16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshsuthar9672@gmail.com) 
 
 # 💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 ![C](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,kotlin,python,github,git,firebase,gradle,postgresql,vscode&theme=dark) 
