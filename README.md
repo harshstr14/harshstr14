@@ -6,7 +6,7 @@
 
 
 # 🌐 𝐒𝐨𝐜𝐢𝐚𝐥
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Telegram &logoColor=dark)](https://instagram.com/harsh_suthar_16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshsuthar9672@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Telegram&logoColor=dark)](https://instagram.com/harsh_suthar_16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshsuthar9672@gmail.com) 
 
 # 💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 ![C](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,kotlin,python,github,git,firebase,gradle,postgresql,vscode&theme=dark) 
