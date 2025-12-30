@@ -6,7 +6,25 @@
 
 
 # 🌐 𝐒𝐨𝐜𝐢𝐚𝐥
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=dark)](https://instagram.com/harsh_suthar_16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshsuthar9672@gmail.com) 
+<a href="https://instagram.com/harsh_suthar_16">
+  <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767085943/Instagram_wzdh7g.png"
+       width="120"
+       height="40" />
+</a>
+&nbsp;
+
+<a href="https://www.linkedin.com/in/harsh-suthar-851520307/">
+  <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767085938/Linkedin_fwz7jw.png"
+       width="120"
+       height="36" />
+</a>
+&nbsp;
+
+<a href="mailto:harshsuthar9672@gmail.com">
+  <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767088151/Gmail_onpr2g.png"
+       width="120"
+       height="36" />
+</a>
 
 # 💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 ![C](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,kotlin,python,github,git,firebase,gradle,postgresql,vscode&theme=dark) 
