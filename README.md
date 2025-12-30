@@ -21,7 +21,7 @@
 &nbsp;
 
 <a href="mailto:harshsuthar9672@gmail.com">
-  <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767088151/Gmail_onpr2g.png"
+  <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767090214/Gamil_swwxtx.png"
        width="120"
        height="36" />
 </a>
