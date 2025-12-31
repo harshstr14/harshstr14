@@ -7,23 +7,23 @@
 
 # 🌐 𝐒𝐨𝐜𝐢𝐚𝐥
 <a href="https://instagram.com/harsh_suthar_16">
-  <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767085943/Instagram_wzdh7g.png"
+  <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767183769/Rounded_20251231_175107_jq2hof.png"
        width="120"
-       height="40" />
+       height="38" />
 </a>
 &nbsp;
 
 <a href="https://www.linkedin.com/in/harsh-suthar-851520307/">
-  <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767085938/Linkedin_fwz7jw.png"
+  <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767183763/Rounded_20251231_175031_etdymi.png"
        width="120"
-       height="36" />
+       height="38" />
 </a>
 &nbsp;
 
 <a href="mailto:harshsuthar9672@gmail.com">
-  <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767090214/Gamil_swwxtx.png"
+  <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767183763/Rounded_20251231_175052_rtr3d4.png"
        width="120"
-       height="36" />
+       height="38" />
 </a>
 
 # 💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
