@@ -22,7 +22,7 @@
 
 <a href="mailto:harshsuthar9672@gmail.com">
   <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767183763/Rounded_20251231_175052_rtr3d4.png"
-       width="120"
+       width="100"
        height="38" />
 </a>
 
