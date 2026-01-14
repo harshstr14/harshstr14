@@ -8,21 +8,21 @@
 # 🌐 𝐒𝐨𝐜𝐢𝐚𝐥
 <a href="https://instagram.com/harsh_suthar_16">
   <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767183769/Rounded_20251231_175107_jq2hof.png"
-       width="110"
+       width="100"
        height="38" />
 </a>
 &nbsp;
 
 <a href="https://www.linkedin.com/in/harsh-suthar-851520307/">
   <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767183763/Rounded_20251231_175031_etdymi.png"
-       width="110"
-       height="38" />
+       width="100"
+       height="34" />
 </a>
 &nbsp;
 
 <a href="mailto:harshsuthar9672@gmail.com">
   <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767183763/Rounded_20251231_175052_rtr3d4.png"
-       width="90"
+       width="80"
        height="38" />
 </a>
 
