@@ -15,14 +15,14 @@
 
 <a href="https://www.linkedin.com/in/harsh-suthar-851520307/">
   <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767183763/Rounded_20251231_175031_etdymi.png"
-       width="100"
+       width="99"
        height="34" />
 </a>
 &nbsp;
 
 <a href="mailto:harshsuthar9672@gmail.com">
   <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767183763/Rounded_20251231_175052_rtr3d4.png"
-       width="80"
+       width="82"
        height="38" />
 </a>
 
