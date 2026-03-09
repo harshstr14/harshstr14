@@ -11,6 +11,7 @@
        width="100"
        height="38" />
 </a>
+&nbsp;
 
 <a href="https://www.linkedin.com/in/harsh-suthar-851520307/">
   <img src="https://res.cloudinary.com/dcdg3s1pf/image/upload/v1767183763/Rounded_20251231_175031_etdymi.png"
