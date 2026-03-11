@@ -27,7 +27,7 @@
 </a>
 
 # 💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
-![C](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,kotlin,python,github,git,firebase,gradle,postgresql,vscode&theme=dark) 
+![C](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,kotlin,python,github,git,firebase,gradle,postgresql,android, android studi,vscode&theme=dark) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshstr14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
