@@ -31,8 +31,9 @@
 
 # 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 ![](https://github-readme-stats.vercel.app/api?username=harshstr14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshstr14&theme=radical"/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshstr14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harshstr14&theme=radical"/><br/>
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshstr14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞
